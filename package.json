@@ -28,7 +28,7 @@
     "node": ">=0.8.0"
   },
   "dependencies": {
-    "grunt": "~0.4.2",
+    "grunt": "~1.3.0",
     "browser_fingerprint": "~0.0.4",
     "node-resque": "~0.3.0",
     "async": "~0.2.9",
